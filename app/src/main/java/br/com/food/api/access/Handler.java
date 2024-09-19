@@ -1,4 +1,4 @@
-package tech.buildrun.lambda;
+package br.com.food.api.access;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;

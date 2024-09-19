@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="30%" src="https://github.com/buildrun-tech/buildrun-aws-lambda-java-starter-example/blob/main/images/lambda.png"> 
+    <img width="20%" src=/images/lambda-logo.png> 
 </p>
 
 
@@ -15,18 +15,6 @@
 
 </p>
 
-Para um maior entendimento do código deste repositório, [assista nosso vídeo no Youtube, clique aqui.](https://www.youtube.com/watch?v=TBD)
-
-## :rocket: Tecnologias utilizadas
-
-* Java 21
+* Java 17
 * AWS Lambda Core
-* AWS Lambda Events
-* Jackson
-* JUnit
-
-:mag: Baixe o projeto e teste você mesmo na prática.
-
-[Conheça mais sobre o nosso trabalho 😀](https://www.instagram.com/buildrun.tech/)
-
-Developed by Build & Run
+* AWS Lambda Events 
