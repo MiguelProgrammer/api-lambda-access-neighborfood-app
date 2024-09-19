@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-  Api Lambda - Acesso e cadastro Neighborfood Application
+  Api Lambda - Access and registration Neighborfood Application
 </h3>
 
 <p align="center">
