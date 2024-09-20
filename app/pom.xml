@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>br.com.neighborfood-app</groupId>
-    <artifactId>application-lambda-api-acess</artifactId>
+    <artifactId>application-lambda-api-access</artifactId>
     <packaging>jar</packaging>
     <version>0.0.1</version>
     <name>lambda-api-access</name>
@@ -82,11 +82,6 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
             <version>5.2.3.RELEASE</version>
-        </dependency>
-        <dependency>
-            <groupId>br.com.neighborfood-app</groupId>
-            <artifactId>application-lambda-api-acess</artifactId>
-            <version>0.0.1</version>
         </dependency>
         <!-- UNIT TESTS -->
 
