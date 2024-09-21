@@ -1,2 +1,7 @@
-br\com\food\api\access\adapter\in\ClienteRequest.class
 br\com\food\api\access\Handler.class
+br\com\food\api\access\adapter\in\ClienteRequest$ClienteRequestBuilder.class
+br\com\food\api\access\adapter\out\ResponseDTO.class
+br\com\food\api\access\adapter\out\ClienteResponse$ClienteResponseBuilder.class
+br\com\food\api\access\adapter\in\ClienteRequest.class
+br\com\food\api\access\adapter\out\ClienteResponse.class
+br\com\food\api\access\adapter\out\ResponseDTO$ResponseDTOBuilder.class
